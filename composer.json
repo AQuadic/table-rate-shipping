@@ -36,13 +36,5 @@
         }
     },
     "require": {
-        "php": "^8.2",
-        "lunarphp/lunar": "dev-dev"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/AQuadic/admin.git"
-        }
-    ]
+        "php": "^8.2"    }
 }
